@@ -26,3 +26,4 @@ public class PowerCalculation {
         System.out.println(x + "raise to the power" + n + "is : " + result);
     }
 }
+// Updated
